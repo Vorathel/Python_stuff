@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-from tkinter import *
-tkinter._test()
+import tkinter as tk
 
-top = tkinter.Tk()
 
-w = tkinter.Label(top,text='Hello World')
+top = tk.Tk()
+
+w = tk.Label(top,text='Hello World')
 w.pack()
 
 top.mainloop()
