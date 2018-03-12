@@ -1,8 +1,3 @@
-build*
-dist*
+*.pyc
 __pycache__*
 terminal*
-.dropbox
-*.zip
-desktop.ini
-
